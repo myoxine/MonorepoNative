@@ -1,5 +1,5 @@
 {
-  "name": "attendance-face",
+  "name": "@attendance-face/monorepo",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/myoxine/MonorepoNative.git",
